@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    margin-bottom: 10px;
+}
+.post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.post p {
+    margin: 5px 0;
+}
+.post .caption {
+    font-weight: bold;
+}
